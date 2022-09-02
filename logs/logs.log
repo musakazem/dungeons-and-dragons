@@ -1,0 +1,54 @@
+2022-08-31 21:27:29,977 - config - INFO - Created new database
+2022-08-31 21:27:30,479 - run - INFO - STARTED PROGRAM
+2022-08-31 21:27:30,479 - generator - INFO - Initialized a new world with size: 18
+2022-08-31 21:27:30,479 - entities - INFO - An instance of Entity is created
+2022-08-31 21:27:30,480 - entities - INFO - A player entity has been created
+2022-08-31 21:27:30,480 - entities - INFO - An instance of Entity is created
+2022-08-31 21:27:30,480 - entities - INFO - A dragon entity has been created
+2022-08-31 21:27:30,480 - entities - INFO - An instance of Entity is created
+2022-08-31 21:27:30,480 - entities - INFO - A gate entity has been created
+2022-08-31 21:27:30,480 - entities - INFO - An instance of Entity is created
+2022-08-31 21:27:30,480 - entities - INFO - An info trigger instance has been created
+2022-08-31 21:27:30,481 - entities - INFO - An instance of Entity is created
+2022-08-31 21:27:30,481 - entities - INFO - A safe trigger instance has been created
+2022-08-31 21:27:30,481 - tutorial - INFO - Successfully initialized level layout
+2022-08-31 21:27:30,481 - entities - DEBUG - Entity instance successfuly set piece as X
+2022-08-31 21:27:30,481 - entities - DEBUG - Entity instance successfuly set piece as D
+2022-08-31 21:27:30,481 - entities - DEBUG - Successfully generated a coordinate:D: (11,10)
+2022-08-31 21:27:30,481 - entities - DEBUG - Entity instance successfuly set piece as G
+2022-08-31 21:27:30,481 - entities - DEBUG - Successfully generated a coordinate:G: (14,10)
+2022-08-31 21:27:30,481 - entities - DEBUG - Entity instance successfuly set piece as ?
+2022-08-31 21:27:30,481 - entities - DEBUG - Entity instance successfuly set piece as S
+2022-08-31 21:27:30,481 - tutorial - INFO - Successfully initialized all objects
+2022-08-31 21:27:50,171 - entities - INFO - Player triggered an info instance
+2022-08-31 21:28:04,112 - entities - INFO - Player triggered a save instance
+2022-08-31 21:28:05,722 - tools - INFO - successfully saved game
+2022-08-31 21:28:05,722 - entities - INFO - Player saved the game
+2022-08-31 21:28:20,926 - tools - INFO - successfully loaded game
+2022-08-31 21:28:27,977 - tools - INFO - successfully loaded game
+2022-08-31 21:28:35,994 - tools - INFO - successfully loaded game
+2022-08-31 21:28:38,246 - run - INFO - ENDED PROGRAM
+2022-08-31 23:38:21,766 - config - INFO - Connected to existing database
+2022-08-31 23:38:21,881 - run - INFO - STARTED PROGRAM
+2022-08-31 23:38:21,881 - generator - INFO - Initialized a new world with size: 18
+2022-08-31 23:38:21,881 - entities - INFO - An instance of Entity is created
+2022-08-31 23:38:21,882 - entities - INFO - A player entity has been created
+2022-08-31 23:38:21,882 - entities - INFO - An instance of Entity is created
+2022-08-31 23:38:21,882 - entities - INFO - A dragon entity has been created
+2022-08-31 23:38:21,882 - entities - INFO - An instance of Entity is created
+2022-08-31 23:38:21,882 - entities - INFO - A gate entity has been created
+2022-08-31 23:38:21,882 - entities - INFO - An instance of Entity is created
+2022-08-31 23:38:21,882 - entities - INFO - An info trigger instance has been created
+2022-08-31 23:38:21,882 - entities - INFO - An instance of Entity is created
+2022-08-31 23:38:21,882 - entities - INFO - A safe trigger instance has been created
+2022-08-31 23:38:21,883 - tutorial - INFO - Successfully initialized level layout
+2022-08-31 23:38:21,883 - entities - DEBUG - Entity instance successfuly set piece as X
+2022-08-31 23:38:21,883 - entities - DEBUG - Entity instance successfuly set piece as D
+2022-08-31 23:38:21,883 - entities - DEBUG - Successfully generated a coordinate:D: (9,9)
+2022-08-31 23:38:21,883 - entities - DEBUG - Entity instance successfuly set piece as G
+2022-08-31 23:38:21,883 - entities - DEBUG - Successfully generated a coordinate:G: (11,13)
+2022-08-31 23:38:21,883 - entities - DEBUG - Entity instance successfuly set piece as ?
+2022-08-31 23:38:21,883 - entities - DEBUG - Entity instance successfuly set piece as S
+2022-08-31 23:38:21,884 - tutorial - INFO - Successfully initialized all objects
+2022-08-31 23:38:22,679 - tools - INFO - successfully loaded game
+2022-08-31 23:38:24,818 - run - INFO - ENDED PROGRAM
